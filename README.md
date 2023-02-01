@@ -1,16 +1,12 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
-
 <h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº3</b>
+ <b>PROYECTO INDIVIDUAL</b>
 </h1>
  
 # <h1 align="center">**`MOOCs`**</h1>
 
 ¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
 <p align='center'>
-<img src = 'https://thumbs.dreamstime.com/b/mooc-massive-open-online-course-learning-vector-219370657.jpg' height = 200>
+<img src = 'https://blog.efmdglobal.org/wp-content/uploads/2019/03/MOOC_blog-1024x563.jpg' height = 300>
 <p>
 
 
@@ -96,10 +92,6 @@ Recordamos que sean puntuales y prueben el correcto funcionamiento de las herram
 
 
 
-## Disclaimer
-De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad. No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
-  
-  
-<p align='center'>
-<img src ="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" height=250>
-<p>
+# Requerimientos
+
+Todo los pautas generales sobre el proyecto se encuentran en el achivo <a href="https://github.com/aylinv94/Data_Analytics/blob/master/Consulta.md">Consulta.md</a> </strong> del repositorio. Cabe destacar, que en vista del peso excesivo de los dataset de origen  se tuvieron que almecenar en un <a href="https://drive.google.com/drive/folders/1FPMRX8Mpapa_M20oYbqUbdkr5NMdSceB">drive</a> </strong> para una posterior visualizacion y analisis, de igual forma se realizo un analisis a traves de power bi que por las mismas razones se tuvieron que alojar en el siguiente link
